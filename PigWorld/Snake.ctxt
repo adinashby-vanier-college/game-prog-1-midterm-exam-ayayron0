@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Snake()
+comment1.text=\r\n\ Randomnizes\ the\ initial\ direction\ of\ the\ snake\ when\ you\ run\ the\ program.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Snake\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveAround()
+comment3.text=\r\n\ Makes\ the\ snake\ move\ randomnly\ around\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ eat()
+comment4.text=\r\n\ Makes\ the\ snake\ eat\ the\ pig\ when\ it\ intersects\ it.\ \r\n
+comment5.params=
+comment5.target=boolean\ isGameOver()
+comment5.text=\r\n\ When\ snake\ eats\ the\ pig,\ game\ is\ lost\r\n
+comment6.params=
+comment6.target=void\ transitionToGameOverWorld()
+comment6.text=\r\n\ Transitions\ to\ the\ Game\ Over\ screen\ once\ defeat\ is\ achieved.\ \r\n
+numComments=7
